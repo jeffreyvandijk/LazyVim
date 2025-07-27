@@ -3,5 +3,4 @@
 
   tasks:
 
-#  - name: test
-#   cisco.c
+  - name: test

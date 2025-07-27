@@ -4,4 +4,4 @@
   tasks:
     - name: test
       ansible.builtin.debug:
-        var: 000
+        msg: "test"
